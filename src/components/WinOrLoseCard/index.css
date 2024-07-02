@@ -1,0 +1,43 @@
+.looseImg {
+  width: 25vw;
+  margin-left: auto;
+  margin-right: 5vw;
+}
+.wonBox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border: solid 5px #ffffff30;
+
+  margin: auto;
+  margin-top: 10vh;
+
+  width: 75vw;
+  padding: 1vw;
+  color: #ffffff;
+  font-family: Roboto;
+  text-align: center;
+}
+.heading1 {
+  font-size: 6vw;
+  font-weight: bold;
+  margin: 5px;
+}
+.para1 {
+  font-size: 4vw;
+  font-weight: bold;
+  margin: 5px;
+}
+.para2 {
+  font-size: 4vw;
+  font-weight: bold;
+  margin: 5px;
+  color: #6a59ff;
+}
+.playBtn {
+  background-color: #ffce27;
+}
+.wonSubBox {
+  margin: 2vw;
+}

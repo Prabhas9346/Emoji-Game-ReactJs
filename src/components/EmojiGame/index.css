@@ -1,0 +1,40 @@
+.navbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  margin: 1vw;
+  margin-right: 4vw;
+}
+.scoreEL {
+  margin: 1vw;
+}
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin-left: 10vw;
+  margin-right: 10vw;
+}
+button {
+  outline: none;
+  background-color: #ffffff33;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 1vw;
+  cursor: pointer;
+
+  border: solid 2px #ffffff30;
+  width: 15vw;
+}
+.emojiPage {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  background-size: cover;
+  height: 100vh;
+  justify-content: center;
+}
+.emojiBox1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

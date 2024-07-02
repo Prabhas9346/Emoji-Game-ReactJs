@@ -1,0 +1,20 @@
+nav {
+  background-color: #9796f0;
+  width: 100vw;
+  display: flex;
+  color: #ffffff;
+  justify-content: space-between;
+  font-weight: 500;
+  opacity: 0.9;
+  border: solid 1px #ffffff30;
+}
+.inside-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 4vw;
+}
+.image1 {
+  width: 3vw;
+  margin: 1vw;
+}
